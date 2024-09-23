@@ -1,4 +1,4 @@
-PROG = printSBML
+PROG = helloSBML
 OBJS = main.o
 CC = gcc
 CFLAGS = -g -Wall -I./include

@@ -1,5 +1,5 @@
 {
-  "name": "printSBML",
+  "name": "helloSBML",
   "customizations": {
     "vscode": {
       "extensions": [

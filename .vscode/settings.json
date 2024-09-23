@@ -1,8 +1,8 @@
 {
   "makefile.launchConfigurations": [
     {
-      "cwd": "/workspaces/printSBML",
-      "binaryPath": "/workspaces/printSBML/printSBML",
+      "cwd": "/workspaces/helloSBML",
+      "binaryPath": "/workspaces/helloSBML/helloSBML",
       "binaryArgs": []
     }
   ]
